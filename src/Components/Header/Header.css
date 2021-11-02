@@ -1,0 +1,14 @@
+
+.designHeader {
+
+    height: 12em;
+    background-color: black;
+
+    color: green;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+}
